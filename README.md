@@ -25,8 +25,8 @@ A master store for high-level software asset metadata
 
 ### Products
 
-- Aplas - https://aplas.com
-- Who's next?
+- Aplas [https://aplas.com]
+- Who's next? (https://aplas.com)
 
 ### What software indexing isn't?
 
