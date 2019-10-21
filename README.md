@@ -25,14 +25,14 @@ A master store for high-level software asset metadata
 
 ### Products
 
-- Aplas [https://aplas.com]
-- Who's next? (https://aplas.com)
+- Aplas [https://aplas.com](https://aplas.com)
+- Who's next?
 
 ### What software indexing isn't?
 
 ### Contributing
 
-Would you like to change this site? Raise an issue @ https://github.com/mcrawshaw/software-indexing/issues or submit a PR @ https://github.com/mcrawshaw/software-indexing/pull-request.
+Would you like to change this site? [Raise an issue](https://github.com/mcrawshaw/software-indexing/issues) or [submit a PR](https://github.com/mcrawshaw/software-indexing/pull-request).
 
 ### Disclaimer
 
