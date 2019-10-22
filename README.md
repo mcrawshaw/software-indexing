@@ -2,21 +2,11 @@
 
 This is a community-run site intended to inform anyone with an interest in software indexing.
 
-A software index often provides the base data for a software map, please visit [https://softwaremapping.org](softwaremapping.org) for more information.
+A software index often provides the base data for a software map, please visit [softwaremapping.org](https://softwaremapping.org) for more information.
 
 ## What is software indexing (noun)?
 
 _**Software indexing is the collaborative process of surveying high-level software asset information and recording in an active/verifiable index.**_
-
-So, it can be split into 2 parts the surveying and the recording. Let's discuss in further detail...
-
-### Surveying
-
-The system
-
-### Recording
-
-The system
 
 ## What is a software index (verb)?
 
